@@ -23,12 +23,12 @@ c. Interact with the site by scrolling down and hovering over elements such as f
 [3] https://scratch.mit.edu/projects/829705728  
 **Used [3] for embeding into the website**  
 [4] https://www.youtube.com/watch?v=NklxOhr2faI  
-[5] https://www.youtube.com/watch?v=xz8q6uHSdmg 
-[6] https://www.youtube.com/watch?v=bjFSgr_B38I  
-[7] https://codepen.io/ourystd/pen/WBVwLy
-[8] https://codepen.io/alvarotrigo/details/MWvXmja
-[9] https://codepen.io/travisw/pen/VGzGye
-[10] https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100
+[5] https://www.youtube.com/watch?v=xz8q6uHSdmg  
+[6] https://www.youtube.com/watch?v=bjFSgr_B38I   
+[7] https://codepen.io/ourystd/pen/WBVwLy  
+[8] https://codepen.io/alvarotrigo/details/MWvXmja  
+[9] https://codepen.io/travisw/pen/VGzGye  
+[10] https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100  
 **Videos from youtube that were embedded into the flip cards**  
 
 
