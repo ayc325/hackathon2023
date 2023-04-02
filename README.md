@@ -8,9 +8,8 @@
 
 (4) Instructions on how to run / use / interact with your project
 a. Open hackathon2023 folder
-b. Open index.html
+b. Open index.html or go to https://ayc325.github.io/hackathon2023/
 c. Interact with the site by scrolling down and hovering over elements such as flip cards and embeds in the site.
-d. 
 
 (5) Citations
 
