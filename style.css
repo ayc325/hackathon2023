@@ -5,7 +5,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Asap", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   scroll-behavior: smooth;
 }
 a {
@@ -15,6 +15,14 @@ ul {
   list-style: none;
 }
 
+h2{
+  font-family: 'Zilla Slab', serif;
+}
+
+#banner{
+  margin: 0 !important;
+}
+
 header {
   top: 0;
   left: 0;
@@ -22,6 +30,7 @@ header {
   z-index: 1000;
   padding-top: 20px;
   border-bottom: 1px solid #879ec4;
+  font-family: 'Zilla Slab', serif;
 }
 
 header nav a {
@@ -30,6 +39,7 @@ header nav a {
   color: #0c1122;
   border-radius: 5px;
   letter-spacing: 0.5px;
+  font-family: 'Zilla Slab', serif;
 }
 header nav a:hover,
 header nav a.active {
