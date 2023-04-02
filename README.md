@@ -14,14 +14,14 @@ c. Interact with the site by scrolling down and hovering over elements such as f
 
 (5) Citations
 
-[1] https://docs.google.com/presentation/d/1cC4Y1t1vrfpy5d0qP5JePMq6gUTtPzxUb7pswtP-_-s/edit?usp=sharing 
-[2] https://docs.google.com/document/d/13r9WOkbOD5L-DYnM5fTb14--ZfGqdHhtg1of3lIGfRo/edit?usp=sharing 
-**Used [1] and [2] to get information about bycatch. Research papers by Angela since it was a topic she did a year long project on in High School.**
-[3] https://scratch.mit.edu/projects/829705728
-**Used [3] for embeding into the website**
-[4] https://www.youtube.com/embed/xz8q6uHSdmg
-[5] https://www.youtube.com/embed/XjB8j5M79x8
-[6] https://www.youtube.com/embed/PxJ53j_bHaw
-**Videos from youtube that were embedded into the flip cards**
+[1] https://docs.google.com/presentation/d/1cC4Y1t1vrfpy5d0qP5JePMq6gUTtPzxUb7pswtP-_-s/edit?usp=sharing  
+[2] https://docs.google.com/document/d/13r9WOkbOD5L-DYnM5fTb14--ZfGqdHhtg1of3lIGfRo/edit?usp=sharing  
+**Used [1] and [2] to get information about bycatch. Research papers by Angela since it was a topic she did a year long project on in High School.**  
+[3] https://scratch.mit.edu/projects/829705728  
+**Used [3] for embeding into the website**  
+[4] https://www.youtube.com/embed/xz8q6uHSdmg  
+[5] https://www.youtube.com/embed/XjB8j5M79x8  
+[6] https://www.youtube.com/embed/PxJ53j_bHaw  
+**Videos from youtube that were embedded into the flip cards**  
 
 
