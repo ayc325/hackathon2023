@@ -125,14 +125,14 @@ section .text-container .text-box h3 {
     position: fixed;
     top: 0;
     width: 100vw;
-    color: #0c1122;
+    color: #fff;
     margin: 0;
     padding: 0;
 }
 
 [data-scrollPercentage] .percentage {
     display: inline-block;
-    background-color: #0c1122;
+    background-color: #fff;
     height: 4px;
     width: 0;
 }
