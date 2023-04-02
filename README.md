@@ -29,6 +29,6 @@ c. Interact with the site by scrolling down and hovering over elements such as f
 [8] https://codepen.io/alvarotrigo/details/MWvXmja  
 [9] https://codepen.io/travisw/pen/VGzGye  
 [10] https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100  
-**Videos from youtube that were embedded into the flip cards**  
+**[4] - [7] Videos from youtube that were embedded into the flip cards**  
 
 
