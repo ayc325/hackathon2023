@@ -7,9 +7,9 @@
 (3) The impact that your project makes as it relates to climate change - Our goal with the website is to educate the younger generation and propose a solution to bycatch, catching unwanted/untargeted species and possibly killing the species in the process. This solution implements Google Lens by using AI and spacial sensing to detect and release any bycaught or unwanted species in the water before the nets are pulled up to the surface and/or before the animals are stuck in the nets. We purposely gamified the website to make it more kid-friendly so that educating them about the topic would be more entertaining.
 
 (4) Instructions on how to run / use / interact with your project
-
+**PLEASE run it locally and not through a webhost server like Github**
 a. Open hackathon2023 folder  
-b. Open index.html or go to https://ayc325.github.io/hackathon2023/  
+b. Open index.html
 c. Interact with the site by scrolling down and hovering over elements such as flip cards and embeds in the site.  
 
 (5) Citations
