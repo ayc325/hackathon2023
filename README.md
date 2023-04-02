@@ -19,9 +19,9 @@ c. Interact with the site by scrolling down and hovering over elements such as f
 **Used [1] and [2] to get information about bycatch. Research papers by Angela since it was a topic she did a year long project on in High School.**  
 [3] https://scratch.mit.edu/projects/829705728  
 **Used [3] for embeding into the website**  
-[4] https://www.youtube.com/embed/xz8q6uHSdmg  
-[5] https://www.youtube.com/embed/XjB8j5M79x8  
-[6] https://www.youtube.com/embed/PxJ53j_bHaw  
+[4] https://www.youtube.com/watch?v=NklxOhr2faI  
+[5] https://www.youtube.com/watch?v=xz8q6uHSdmg 
+[6] https://www.youtube.com/watch?v=bjFSgr_B38I  
 [7] https://codepen.io/ourystd/pen/WBVwLy
 [8] https://codepen.io/alvarotrigo/details/MWvXmja
 [9] https://codepen.io/travisw/pen/VGzGye
